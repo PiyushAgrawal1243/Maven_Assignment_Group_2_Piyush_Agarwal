@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="String-impl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/String_impl_jar</output-path>
+    <root id="root">
+      <element id="archive" name="String-impl.jar">
+        <element id="module-output" name="String-impl" />
+        <element id="module-output" name="String-api" />
+      </element>
+    </root>
+  </artifact>
+</component>

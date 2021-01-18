@@ -1,0 +1,1 @@
+To run This assignment run command mvn clean compile assembly:single . This command generate String-impl-1.0-SNAPSHOt-jar-with-dependencies.jar file in target folder of String-impl. For run this jar file open String-impl module in Terminal and the run command java -cp target/String-impl-1.0-SNAPSHOT-jar-with-dependencies.jar Apllication.
